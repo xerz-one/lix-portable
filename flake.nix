@@ -2,7 +2,7 @@
   inputs = {
     nix-portable = {
       url = "github:DavHau/nix-portable";
-      inputs.nix.url = "git+https://git.lix.systems/lix-project/lix";
+      inputs.nix.url = "https://git.lix.systems/lix-project/lix/archive/2.92.0.tar.gz";
     };
   };
 
